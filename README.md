@@ -1,0 +1,1 @@
+Run `npm ci && npm run tsc` on the command line to reproduce the error.

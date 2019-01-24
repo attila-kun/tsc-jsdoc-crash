@@ -1,0 +1,14 @@
+{
+  "name": "tsc-jsdoc-crash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "tsc": "./node_modules/typescript/bin/tsc crash.ts"
+  },
+  "author": "Attila Kun",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.3.0-dev.20190124"
+  }
+}
